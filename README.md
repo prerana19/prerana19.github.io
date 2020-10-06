@@ -1,1 +1,1 @@
-The link to [my website](https://github.com/prerana19/prerana19.github.io)!
+The link to [my website](https://prerana19.github.io)!
